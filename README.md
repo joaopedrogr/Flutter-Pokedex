@@ -18,13 +18,12 @@ The Pokedex Flutter project is a great opportunity to learn Flutter fundamentals
 
 ### Flutter version
 
-<p>
-  <img src="/assets/loginMobile.png" width="200"> &nbsp;
-  <img src="/assets/registerMobile.png" width="200"> &nbsp;
-  <img src="/assets/homeMobile.png" width="200"> &nbsp;
-  <img src="/assets/detailsMobile.png" width="200"> 
+<p align="center">
+  <img src="/assets/loginMobile.png" width="150" />
+  <img src="/assets/registerMobile.png" width="150" />
+  <img src="/assets/homeMobile.png" width="150" />
+  <img src="/assets/detailsMobile.png" width="150" />
 </p>
-
 
 ### Web version
 <p>
@@ -33,7 +32,6 @@ The Pokedex Flutter project is a great opportunity to learn Flutter fundamentals
   <img src="/assets/home.png">
   <img src="/assets/details.png">
 </p>
-
 
 ### Access the Web version at: https://flutter-pokedex1-tlj4.vercel.app/
 
