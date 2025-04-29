@@ -19,9 +19,9 @@ The Pokedex Flutter project is a great opportunity to learn Flutter fundamentals
 ### Flutter version
 
 <p>
-  <img src="/assets/loginMobile.png" width="200"> &nbsp;&nbsp;
-  <img src="/assets/registerMobile.png" width="200"> &nbsp;&nbsp;
-  <img src="/assets/homeMobile.png" width="200"> &nbsp;&nbsp;
+  <img src="/assets/loginMobile.png" width="200"> &nbsp;
+  <img src="/assets/registerMobile.png" width="200"> &nbsp;
+  <img src="/assets/homeMobile.png" width="200"> &nbsp;
   <img src="/assets/detailsMobile.png" width="200"> 
 </p>
 
